@@ -98,7 +98,7 @@ Team Mission 2
 - 현재의 기술과 약 15년 전에 MIT에서 진행한 기술의 발전 모습은? 현재는 이 기술이 AI 기반 제스처 인식, 스마트글라스, 증강현실(AR) 등으로 발전해 더 작고 정교한 기기로 구현되고 있습니다. 초기 프로토타입이 약 350달러였던 것과 달리 지금은 스마트폰과 연동하며 일상에서 자연스럽게 사용할 수 있는 수준으로 진화했습니다.
 
 ## 6주차 활동을 마친 소감
-<img src="https://github.com/user-attachments/assets/b60fe625-f642-4497-b6ef-097fb1c990f7" width="400" height="200"/>
+<img src="https://github.com/user-attachments/assets/b60fe625-f642-4497-b6ef-097fb1c990f7" width="400" height="1500"/>
 
 ## Markdown을 사용하여 내용꾸미기를 익히세요.
 
