@@ -110,6 +110,7 @@ Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구
 
 ```markdown
 Syntax highlighted code block
+![Screenshot_20251010_130738_Samsung Notes](https://github.com/user-attachments/assets/58fbae32-65ec-4339-b51c-d36f35a05463)
 
 # Header 1
 ## Header 2
