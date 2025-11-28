@@ -164,6 +164,8 @@ AI 연산 효율을 극대화하는 **모델 특화 하드웨어 가속기(Hardw
 
 <br>
 
+<img width="1862" height="993" alt="Image" src="https://github.com/user-attachments/assets/39df9a36-74d0-4baa-9884-9d7313ae26e0" />
+
 ## 💡 미래 기술 시나리오 (6 Key Ideas)
 
 우리 팀은 **'소프트웨어와 AI'**를 기반으로 다음 6가지 핵심 기술을 미래 사회의 솔루션으로 제시하였습니다.
