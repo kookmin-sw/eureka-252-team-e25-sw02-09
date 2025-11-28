@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/abe7aa3c-6fdc-4b88-b101-5c9f095ea0eb" width="100%" style="border-radius: 10px;"/>
-
-<br>
 <br>
 
 # 🚀 TEAM 9 : Future Architects
@@ -37,9 +34,13 @@
 
 ## 2️⃣ 🏆 Main Project : 6 Future Tech Scenarios
 
+<img src="https://github.com/user-attachments/assets/abe7aa3c-6fdc-4b88-b101-5c9f095ea0eb" width="100%" style="border-radius: 10px;"/>
+
+<br>
+
 > **"모든 혁신의 중심에는 소프트웨어가 있다"**
 >
-> 위 메인 이미지에 묘사된 미래 도시의 모습은 저희 팀이 구상한 **6가지 핵심 기술**로 이루어져 있습니다.
+> 위 이미지에 묘사된 미래 도시의 모습은 저희 팀이 구상한 **6가지 핵심 기술**로 이루어져 있습니다.
 
 ### 🏙️ 우리가 그리는 미래 사회 (Key Technologies)
 
