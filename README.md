@@ -109,7 +109,7 @@
 > **"GPU보다 효율적인, 모델 맞춤형 칩(NPU)을 설계하다"**
 > <br> 민수홍 선배님 (20학번) | AI 모델 경량화 & 하드웨어 가속기 연구
 
-![Interview Image](https://github.com/user-attachments/assets/03d7fe40-827f-448d-af35-1d592955fd92)
+<img src="https://github.com/user-attachments/assets/03d7fe40-827f-448d-af35-1d592955fd92" width="500" alt="Interview Image">
 
 **💡 학부생을 위한 핵심 Q&A**
 
