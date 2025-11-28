@@ -91,6 +91,7 @@ AI 연산 효율을 극대화하는 **모델 특화 하드웨어 가속기(Hardw
 | **한 줄 요약** | GPU보다 효율적인 AI 연산을 위한 맞춤형 칩을 설계합니다! |
 
 ---
+![Image](https://github.com/user-attachments/assets/03d7fe40-827f-448d-af35-1d592955fd92)
 
 ## 🧐 핵심 질문과 분석: 학부생이 알아야 할 것들
 
