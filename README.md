@@ -33,7 +33,7 @@
 ## 2️⃣ 🏆 Main Project : 6 Future Tech Scenarios
 
 <img src="https://github.com/user-attachments/assets/abe7aa3c-6fdc-4b88-b101-5c9f095ea0eb" width="100%" style="border-radius: 10px;"/>
-<img width="1728" height="2464" alt="Image" src="https://github.com/user-attachments/assets/b0bc38af-f762-466b-9374-2ce833ddf4fe" />
+<!-- <img width="1728" height="2464" alt="Image" src="https://github.com/user-attachments/assets/b0bc38af-f762-466b-9374-2ce833ddf4fe" /> -->
 
 <br>
 
